@@ -45,11 +45,8 @@ Task 1 - Personal Portfolio Website
 
 ## 🌐 Live Website
 
-Add your live website link here
+file:///C:/Users/satya/OneDrive/Desktop/index.html#contact
 
-## 📸 Screenshots
-
-Add project screenshots here
 
 ## 👩‍💻 Developed By
 
