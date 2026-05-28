@@ -53,4 +53,4 @@ Add project screenshots here
 
 ## 👩‍💻 Developed By
 
-Satyabhuvaneswari
+Pepakayala Satya Bhuvaneswari
